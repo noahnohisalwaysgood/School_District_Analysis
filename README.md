@@ -16,12 +16,14 @@ There are total 15 schools along with toal number of students 39170.
 ![image](https://user-images.githubusercontent.com/105985796/176998620-1ab70c71-e692-4f33-ac5c-236b9a031c10.png)
 Thomas High School's overall passing rate is above district's overall passing rate.
 
-# School Summary
-![image](https://user-images.githubusercontent.com/105985796/176999082-1782d3c7-759c-4348-9d34-c7ba514b77bc.png)
-![image](https://user-images.githubusercontent.com/105985796/176999098-20b58db1-d9ba-4ebe-bd84-27daafdc4b92.png)
+# School Summary 2 images
+![image](https://user-images.githubusercontent.com/105985796/177023278-de911c1b-fb86-4700-aa2e-54e1e089447a.png)
+![image](https://user-images.githubusercontent.com/105985796/177023288-16f67740-38db-4ca5-9193-4905c68e5ef8.png)
 
 # Spending Summary
 ![image](https://user-images.githubusercontent.com/105985796/176999147-434d65b8-3885-40b5-a6a1-cf9405a8e6a3.png)
 
 # School Size
 ![image](https://user-images.githubusercontent.com/105985796/176999194-95261e57-b7b9-42bc-b7d2-de8fd0f2197d.png)
+
+
