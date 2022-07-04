@@ -36,6 +36,15 @@ Original Data
 Adjusted Data
 ![image](https://user-images.githubusercontent.com/105985796/177149874-681cd58a-7eca-46cc-abaa-5456d6c6000e.png)
 
-
+It does not make siginificant change.
 
 # How is the school summary affected?
+Grade Data without 9th graders
+![image](https://user-images.githubusercontent.com/105985796/177153176-b64fcc40-0b30-4724-9df8-8c9886e88920.png)
+![image](https://user-images.githubusercontent.com/105985796/177153271-4b0d7c12-9a66-43b7-ade4-b240b5967850.png)
+Grade Data with 9th graders
+![image](https://user-images.githubusercontent.com/105985796/177153824-854bd001-d040-4721-9271-d1911fe45366.png)
+![image](https://user-images.githubusercontent.com/105985796/177153893-07c6e01f-e46c-42ac-951c-beca3d26dae3.png)
+
+
+
