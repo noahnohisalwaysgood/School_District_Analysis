@@ -57,3 +57,19 @@ Overall passing 90.6% to 65.1%
 School spending has not significant impact on improving grades. Spending money does not equal to studnets' grades.
 
 # Score by School Size
+![image](https://user-images.githubusercontent.com/105985796/177205542-95687120-7854-4864-9b34-47fe92356330.png)
+
+School size does not have significant impact on improving grades.
+
+# School Type
+![image](https://user-images.githubusercontent.com/105985796/177205820-1786a06f-5535-4839-99e6-51e3d9272637.png)
+Charter has overwhelmingly better grades over District.
+
+
+# Summary
+
+The overall passing rate for Thomas High School decreases significantly from 91% to 65%.
+
+Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+
+Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
