@@ -46,5 +46,14 @@ Grade Data with 9th graders
 ![image](https://user-images.githubusercontent.com/105985796/177153824-854bd001-d040-4721-9271-d1911fe45366.png)
 ![image](https://user-images.githubusercontent.com/105985796/177153893-07c6e01f-e46c-42ac-951c-beca3d26dae3.png)
 
+It does not make significant change on averge math and reading scores. However, it makes significant change on passing math and reading rates as well as overall passing rate.
+Passing math 93% to 66.9%
+Passing reading 97% to 69.7%
+Overall passing 90.6% to 65.1%
 
+# Scores by School Spending
+![image](https://user-images.githubusercontent.com/105985796/177155576-305ded5c-37b7-4f6d-880d-fae2bfc75239.png)
 
+School spending has not significant impact on improving grades. Spending money does not equal to studnets' grades.
+
+# Score by School Size
