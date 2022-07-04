@@ -26,4 +26,16 @@ Thomas High School's overall passing rate is above district's overall passing ra
 # School Size
 ![image](https://user-images.githubusercontent.com/105985796/176999194-95261e57-b7b9-42bc-b7d2-de8fd0f2197d.png)
 
+# School Type
+![image](https://user-images.githubusercontent.com/105985796/177088064-9d6808a7-6c5b-4423-bacb-650c3cc1bf19.png)
 
+# Result
+ # How is the district summary affected?
+Original Data
+![image](https://user-images.githubusercontent.com/105985796/177150306-94ca3cf5-68c1-43c4-ab18-8ec7784c4735.png)
+Adjusted Data
+![image](https://user-images.githubusercontent.com/105985796/177149874-681cd58a-7eca-46cc-abaa-5456d6c6000e.png)
+
+
+
+# How is the school summary affected?
